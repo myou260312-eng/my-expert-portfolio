@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M2M Token Engine | Mdabul Extensions</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            padding: 40px 20px;
+            background-color: #161b22;
+            border-bottom: 1px solid #30363d;
+        }
+        .container { max-width: 850px; margin: 0 auto; padding: 20px; }
+        h1 { font-size: 2.2rem; color: #58a6ff; margin: 0 0 10px 0; }
+        h2 { font-size: 1.6rem; color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 30px; }
+        p { color: #8b949e; font-size: 1rem; }
+        a { color: #58a6ff; text-decoration: none; }
+        .card { background: #161b22; padding: 25px; border: 1px solid #30363d; border-radius: 8px; margin: 20px 0; }
+        .btn { display: inline-block; background-color: #21262d; color: #c9d1d9; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.9rem; border: 1px solid #30363d; }
+        .btn:hover { background-color: #30363d; }
+        pre { background: #0d1117; padding: 15px; border-radius: 6px; border: 1px solid #30363d; overflow-x: auto; color: #ff7b72; font-family: monospace; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <a href="index.html" style="color: #8b949e; font-size: 0.9rem;">← Back to Master Portfolio</a>
+            <h1 style="margin-top: 10px;">Mdabul M2M Token Extension</h1>
+            <p style="margin: 0;">Secure Browser-Isolated Machine-to-Machine Application Authentication Engine</p>
+        </div>
+    </header>
+
+    <div class="container">
+        
+        <section>
+            <h2>🛡️ Architectural Core</h2>
+            <p>This extension is engineered to manage high-security OAuth2 and bearer token lifecycles directly within a secure, sandboxed browser context. It bypasses the need for insecure intermediate proxy servers, eliminating Man-in-the-Middle (MitM) token extraction vulnerabilities during development testing loops.</p>
+        </section>
+
+        <section>
+            <h2>⚡ Key Security Mechanisms</h2>
+            <div class="card">
+                <p><strong>🔒 Zero-Knowledge Storage:</strong> Credentials and secrets are kept strictly within localized application state storage, isolated completely from third-party tracking injections.</p>
+                <p><strong>🕒 Automated Token Expiry Evaluation:</strong> Dynamically calculates delta thresholds to request background token validation checks exactly 60 seconds before absolute token death paths occur.</p>
+                <p><strong>🌐 Polyfill Header Injection:</strong> Intercepts development runtime fetch loops to securely inject authorized bearer parameters natively behind the scenes.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>🛠️ Core Implementation Script Snippet</h2>
+            <p>The core local security authentication sequence operates seamlessly via state-machine isolated background scripting structures:</p>
+            <pre>
+// Local Secure Context Injection Engine
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    if (request.action === "INJECT_M2M_TOKEN") {
+        const encryptedKey = localStorage.getItem('M2M_SECURE_PAYLOAD');
+        if (!encryptedKey) {
+            sendResponse({ status: "ERROR_REJECTED", reason: "KEY_NOT_FOUND" });
+            return;
+        }
+        // Native local injection without external proxy dependencies
+        sendResponse({ status: "SUCCESS_AUTHORIZED", payload: encryptedKey });
+    }
+    return true;
+});</pre>
+        </section>
+
+    </div>
+
+</body>
+</html>
+
