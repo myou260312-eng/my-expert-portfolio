@@ -7,8 +7,7 @@ This framework is officially registered and archived with the European Union ope
 👉 **Official DOI:** [10.5281/zenodo.21301987](https://doi.org)
 
 🔗 **Support My Work:** [💰 Become a Sponsor](https://github.com/sponsors/AnticipatedD) | [☕ Open Collective](https://opencollective.com/vane-guard)
-
-Welcome to [my-expert-portfolio](https://mdabul.netlify.app)**
+Welcome to [my-expert-portfolio](https://mdabul.netlify.app)
 
 ---
 
@@ -52,22 +51,22 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 ### **Certifications & Learning**
 - 🎓 **Android Enterprise Certified Developer**
 - 📚 **Microsoft AI Integration Specialist** (In Progress)
-- 🏅 Microsoft Learn Profile: [mdabulhossain-6486](https://learn.microsoft.com/en-gb/users/mdabulhossain-6486/)
-- Hospitality Security Management Course: Issued by: **EEBSSA Online** [CERT-07C8537D5B](https://www.ebssa-online.net/student/certificate/CERT-07C8537D5B)
+- 🏅 **Microsoft Learn Profile**: [mdabulhossain-6486](https://learn.microsoft.com/en-gb/users/mdabulhossain-6486/)
+- **Hospitality Security Management Course**: Issued by: **EEBSSA Online** [CERT-07C8537D5B](https://www.ebssa-online.net/student/certificate/CERT-07C8537D5B)
   
 <!-- ==================================================================== -->
 <!-- SECURE CERTIFICATIONS & CREDENTIAL ENGINES -->
 <!-- ==================================================================== -->
 <section style="max-width: 800px; margin: 30px auto; padding: 20px; background: #161b22; border: 1px solid #30363d; border-radius: 8px;">
     <h3 style="color: #c9d1d9; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0; font-size: 1.4rem;">
-    </h3>
-### 🛡️ Verified Security & Critical Infrastructure Credentials
+    </h3>  
+   🛡️ Verified Security & Critical Infrastructure Credentials
 
 <table>
   <tr>
     <td width="200" align="center" valign="top">
       <a href="https://credly.com" target="_blank">
-        <img src="https://credly.com" width="150" alt="OPSWAT ICIP Badge">
+        <img src="My-opswat-introduction-to-critical-infrastructure.png" width="150" alt="OPSWAT ICIP Badge">
       </a>
       <br><br>
       <a href="https://credly.com" target="_blank"><strong>Verify Badge</strong></a>
@@ -80,8 +79,7 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
     </td>
   </tr>
 </table>
-  
--
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myou260312-eng&show_icons=true&theme=radical&include_all_commits=true)
@@ -97,83 +95,26 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 
 ---
 
-## 🔒 Proprietary Asset & Commercial Licensing
-
-This repository serves as the public landing page and documentation hub for the **Vane-Guard Sovereign Framework**. The source code is closed-source and protected under a strict commercial license. 
-
-To acquire a commercial license, full source code ownership, or deployment access keys, please purchase directly through our official distribution channels below.
-
-### 💰 Secure Purchase & Instant Delivery
-Select the tier that fits your development or business needs. Payments are processed securely via Gumroad:
-
-* 🚀 **Developer Boilerplate License ($49)** — Instant access to the private repository for individual use, building SaaS MVPs, or rapid prototyping.
-* 🏢 **Enterprise / Commercial License ($499)** — Full commercial rights to deploy, modify, rebrand, and distribute the framework within an enterprise ecosystem.
-* 💎 **Full Intellectual Property (IP) Transfer ($2,000)** — 100% exclusive asset buyout. Includes complete copyright handover and direct architectural handoff documentation.
-
-👉 **[CLICK HERE TO PURCHASE ACCESS KEYS & SOURCE CODE VIA GUMROAD](https://dvane.gumroad.com/l/vane-core)**
-
-*After checkout, you will receive an automated invitation granting immediate read/write access to the private production repository.*
-
----
-
 ## 🏆 Engineered by Elite Technical Talent
 This framework is architected and maintained by a verified Top-30 Global AI Engineer:
-* **AlphaNova Competition:** Global Rank #30 / 613
-* **Global Leaderboard:** Rank #11
-* **Developer Reputation:** 62.5
-* **Verified Scientific Contributions:** 2 Enterprise applications submitted through [Zenodo](https://doi.org) (EUROPEAN F&T Project framework).
+* **AlphaNova Competition:** **Global Rank** **#30 / 613**
+* **Global Leaderboard:** **Rank** **#11**
+* **Developer Reputation:** **62.5**
+* **Verified Scientific Contributions:** **2 Enterprise applications submitted through [Zenodo](https://doi.org) (EUROPEAN F&T Project framework).**
+
+**⭐ If you're interested in deterministic AI, hallucination prevention, or enterprise solutions, let's connect!**
+
+*Built with ❤️ by MD ABUL HOSSAIN | Vane Enterprise LLC*
 
 ---
 
-## ⚡ Technical Architecture Overview
-Vane-Guard bridges the gap between raw vector embeddings and mission-critical telemetry. It bypasses months of custom infrastructure construction.
+## 📞 Quick Contact
 
-### Core Modules Included in the Core Asset Bundle:
-1. **Flask Backend Engine (`app.py` & `config.py`)**: Production-ready telemetry routing and web application controllers.
-2. **Advanced Data Ingestion Core (`data_ingestion.py`)**: Modular pipeline framework optimized for indexing and parsing custom document structures.
-3. **Truth-Boundary LLM Provider (`llm_provider.py`)**: Secure API wrappers enforcing contextual accuracy boundaries for OpenAI/LLM models.
-4. **Edge Frontend Interface (`index.html`)**: Low-latency dark-mode user interface mapping vector counts, processing speeds, and real-time enterprise AI diagnostic streams.
-
-### Live Architecture Demo
-Explore the production-ready interface layout running live:
-🔗 **[Live Telemetry Dashboard Preview](https://netlify.app)**
+- 📧 **Business Inquiries:** Contact via [Vane Enterprise Portal](https://vane-enterprise.github.io)
+- 💬 **Social Media:** [@harigov63 on X](https://x.com/@harigov63)
+- 📺 **Content & Updates:** [YouTube Channel](https://www.youtube.com/vane-enterprise-llc)
+- 🤝 **Professional:** [GitHub Discussions](https://github.com/myou260312-eng)
 
 ---
 
-## 📞 Business Inquiries & Custom Implementations
-For custom engineering contracts, automated RAG integrations, or specialized deployment setups, contact the engineering desk directly via GitHub Issues or our live agents:
-* 🤖 **Support:** Vane Enterprise LLC Support Agent
-* 💼 **Sales:** Vane Enterprise Sales Assistant
-## 🤖 Commercial Voice Agent Frameworks (SpaceXAI Infrastructure)
-In addition to the core RAG platform, this asset bundle features production-ready voice agent deployment models optimized via the SpaceXAI Realtime Voice API ecosystem.
-
-### Available Agents:
-1. **Vane Enterprise LLC Support Agent** — Engineered for automated Tier-1 ticketing deflection, semantic intent matching, and diagnostic log routing.
-2. **Vane Enterprise Sales Assistant** — Configured with tight guardrails for outbound pipeline acceleration, multi-turn sales objection handling, and immediate lead capturing loo### ⚡ What is Included in the Voice Asset:
-* **`voice_agents.py` Code Engine:** Complete full-stack Python asynchronous architecture using `websockets` to feed low-latency real-time voice directly to backend servers.
-* **Production Integration Schemas:** Pre-mapped event parsers tracking `response.output_audio_transcript.delta` for instant textual fallback rendering and raw `PCM audio binary structures`.
-* **Prompt Engineering Matrix:** System payloads optimizing outbound sales loops and customer deflection logic natively inside xAI systems. 
-
-### ⚡ What is Included in the Voice Asset:
-* **`voice_agents.py` Code Engine:** Complete full-stack Python asynchronous architecture using `websockets` to feed low-latency real-time voice directly to backend servers.
-
-* **Production Integration Schemas:** Pre-mapped event parsers tracking `response.output_audio_transcript.delta` for instant textual fallback rendering and raw `PCM audio binary structures`.
-
-* **Prompt Engineering Matrix:** System payloads optimizing outbound sales loops and customer deflection logic natively inside xAI systems.
-
-* **Production Integration Scripts:** Ready-to-go `Python`, `TypeScript`, and `Go` implementations designed to hook into the SpaceXAI Realtim
-
-* **Prompt Engineering Matrix:** Full system prompt payloads establishing strict commercial boundary conditions and corporate personality traits.
-
-### 🔗 Live Agent Tryout
-Test the real-time processing capabilities of our conversational sales architecture instantly over the web:
-👉 **[CLICK HERE TO TRY OUT THE SALES AGENT LIVE](YOUR_SPACEXAI_LIVE_TEST_LINK_HERE)**
-
-### 💰 Licensing Tiers for Voice Components
-
-* 🛠️ **Voice Boilerplate Source Code ($39)** — Get full access to the production Python integration scripts and specialized system prompts to launch your own voice agent immediately.
-
-* 🤝 **Done-For-You Business Setup ($299)** — The author will personally configure, wire, and deploy a custom version of these voice assistants straight into your existing corporate platform or phone system.
-
----
-*© 2026 MD ABUL HOSSAIN. All Rights Reserved. Product protected under private technical asset guidelines.*
+*Copyright © 2026 MD ABUL HOSSAIN. All Rights Reserved.*
