@@ -3,8 +3,7 @@
 **Business | Offshore Architecture Engineer | Entrepreneur**
 
 ### 📚 Academic Citation & Verified DOI
-This framework is officially registered and archived with the European Union open-access infrastructure:
-👉 **Official DOI:** [10.5281/zenodo.21301987](https://doi.org)
+This framework is officially registered and archived with the European Union open-access infrastructure: 👉 **Official DOI:** <img width="191" height="20" alt="17844663734233388406991505452514" src="https://github.com/user-attachments/assets/51ae8b22-3b1c-4f28-b91b-f8a3b5ff69e7" />
 
 🔗 **Support My Work:** [💰 Become a Sponsor](https://github.com/sponsors/AnticipatedD) | [☕ Open Collective](https://opencollective.com/vane-guard)
 Welcome to [my-expert-portfolio](https://mdabul.netlify.app)
