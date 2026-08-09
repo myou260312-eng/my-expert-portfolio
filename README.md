@@ -1,9 +1,19 @@
-# Hi there! 👋 I'm MD ABUL HOSSAIN (my-expert-portfolio)
-
-**Business | Offshore Architecture Engineer | Entrepreneur**
-
+# Hello Everyone this is MD ABUL HOSSAIN (my-expert-portfolio)
+*SVP & Head of Strategic Partnerships*  TARU Global Access
+European F&T Expert: EX2026D1473148 |IBM Business Partner Plus | Web of Science ResearcherID: QQZ-6739-2026 | ORCID: 0009-0004-4378-5298 |
+---
 ### 📚 Academic Citation & Verified DOI
 This framework is officially registered and archived with the European Union open-access infrastructure: 👉 **Official DOI:** <img width="191" height="20" alt="17844663734233388406991505452514" src="https://github.com/user-attachments/assets/51ae8b22-3b1c-4f28-b91b-f8a3b5ff69e7" />
+---
+
+**Key Highlights**
+
+- **67 IBM** credentials & training modules.
+- **58** Microsoft Learn badges + **10 Trophies**.
+- AlphaNova Tech Competition: **Global Leaderboard #28** | Individual Rank **58/873**.
+- **Official EU Publications Office widget & Horizon Europe Pillar II integration**
+- Interactive credential registries with filtering
+- Dedicated architecture modules (M2M OAuth Isolation & Voice Orchestrator)
 
 🔗 **Support My Work:** [💰 Become a Sponsor](https://github.com/sponsors/AnticipatedD) | [☕ Open Collective](https://opencollective.com/vane-guard)
 Welcome to [my-expert-portfolio](https://mdabul.netlify.app)
@@ -18,13 +28,17 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 
 ---
 
-## 💼 Professional Background
+### 💼 Educational & Professional Background
 
-- **Business Owner & Entrepreneur**: Founded and scaled Vane Enterprise LLC
-- **Offshore Architecture Engineer**: Designed complex systems for Amazon, Google, and enterprise clients
-- **Google Admin Console Expert**: Certified holder of Chrome Enterprise and Android Enterprise setup certifications
-- **GitHub App Developer**: Creator of the "Vane-Guard-Sovereign-Orchestrator" deployed GitHub App
-- **AI Researcher & Developer**: Specializing in preventing AI hallucinations and creating sovereign AI solutions
+- Masters in Marketing & Innovation: From Anglia Ruskin University, Chelmsford, London. UK(🇬🇧).
+- PgD in Business Management & Strategy: From Association of Business Practitioners (ABP). London, UK(🇬🇧).
+- Bachelor Of Business Administration (B.B.A): From University of Madras, Chennai. India (🇮🇳).
+- Certified IMS Logical Relationships: Dedicated and Partner Plus relationship building up with IMB Technical Talent.
+- Business Owner & Entrepreneur: Founded and scaled Vane Enterprise LLC.
+- Offshore Architecture Engineer: Designed complex systems for Amazon, Google, and enterprise clients.
+- Google Admin Console Expert: Certified holder of Chrome Enterprise and Android Enterprise setup certifications.
+- GitHub App Developer: Creator of the "Vane-Guard-Sovereign-Orchestrator" deployed GitHub App.
+- AI Researcher & Developer: Specializing in preventing AI hallucinations and creating sovereign AI solutions.
 
 ---
 
