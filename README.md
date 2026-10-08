@@ -1,6 +1,6 @@
 # Hello Everyone this is MD ABUL HOSSAIN (my-expert-portfolio)
 *SVP & Head of Strategic Partnerships*  TARU Global Access
-European F&T Expert: EX2026D1473148 |IBM Business Partner Plus | Web of Science ResearcherID: QQZ-6739-2026 | ORCID: 0009-0004-4378-5298 |
+European F&T Expert | IBM Business Partner Plus & Microsoft Business Partner | Catagory B Senior Researcher|
 ---
 ### 📚 Academic Citation & Verified DOI
 This framework is officially registered and archived with the European Union open-access infrastructure: 👉 **Official DOI:** <img width="191" height="20" alt="17844663734233388406991505452514" src="https://github.com/user-attachments/assets/51ae8b22-3b1c-4f28-b91b-f8a3b5ff69e7" />
@@ -8,15 +8,17 @@ This framework is officially registered and archived with the European Union ope
 
 **Key Highlights**
 
-- **67 IBM** credentials & training modules.
-- **58** Microsoft Learn badges + **10 Trophies**.
-- AlphaNova Tech Competition: **Global Leaderboard #28** | Individual Rank **58/873**.
+- **87 IBM** credentials & training modules.
+- **224** Microsoft Learn badges + **45 Trophies** & **Level 13**.
+- AlphaNova Tech Competition: **Global Leaderboard #28** | Individual Rank **57/873**.
 - **Official EU Publications Office widget & Horizon Europe Pillar II integration**
 - Interactive credential registries with filtering
 - Dedicated architecture modules (M2M OAuth Isolation & Voice Orchestrator)
 
 🔗 **Support My Work:** [💰 Become a Sponsor](https://github.com/sponsors/AnticipatedD) | [☕ Open Collective](https://opencollective.com/vane-guard)
-Welcome to [my-expert-portfolio](https://mdabul.netlify.app)
+Welcome to [my-expert-portfolio]
+[MD ABUL HOSSAIN](https://anticipatedd.github.io/mdhossain) 
+[My Netlify website](https://mdabul.netlify.app)
 
 ---
 
@@ -30,9 +32,9 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 
 ### 💼 Educational & Professional Background
 
-- Masters in Marketing & Innovation: From Anglia Ruskin University, Chelmsford, London. UK(🇬🇧).
-- PgD in Business Management & Strategy: From Association of Business Practitioners (ABP). London, UK(🇬🇧).
-- Bachelor Of Business Administration (B.B.A): From University of Madras, Chennai. India (🇮🇳).
+- Masters in Marketing & Innovation: From Anglia Ruskin University, Chelmsford, London. UK.
+- PgD in Business Management & Strategy: From Association of Business Practitioners (ABP). London, UK.
+- Bachelor Of Business Administration (B.B.A): From University of Madras, Chennai. India.
 - Certified IMS Logical Relationships: Dedicated and Partner Plus relationship building up with IMB Technical Talent.
 - Business Owner & Entrepreneur: Founded and scaled Vane Enterprise LLC.
 - Offshore Architecture Engineer: Designed complex systems for Amazon, Google, and enterprise clients.
@@ -64,7 +66,7 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 ### **Certifications & Learning**
 - 🎓 **Android Enterprise Certified Developer**
 - 📚 **Microsoft AI Integration Specialist** (In Progress)
-- 🏅 **Microsoft Learn Profile**: [mdabulhossain-6486](https://learn.microsoft.com/en-gb/users/mdabulhossain-6486/)
+- 🏅 **Microsoft Learn Profile**: [mdhossain](https://learn.microsoft.com/en-gb/users/mdhossain/)
 - **Hospitality Security Management Course**: Issued by: **EEBSSA Online** [CERT-07C8537D5B](https://www.ebssa-online.net/student/certificate/CERT-07C8537D5B)
   
 <!-- ==================================================================== -->
@@ -103,17 +105,17 @@ As the founder and leader of **Vane Enterprise LLC**, I drive innovation through
 # Vane-Guard Sovereign Framework (v1.0.0) 
 ### High-Precision Enterprise AI & Full-Stack RAG Infrastructure
 
-[![License: Premium Commercial](https://shields.io)](https://gumroad.com) 
-[![Developer Rank](https://shields.io)](#)
+[![License: Premium Commercial](https://img.shields.io/badge/License-30363d?style=flat-square&logo=license&logoColor=white)](https://dvane.gumroad.com/l/enterprise) 
+[![Developer Rank](https:img.shields.io/badge/Developer-Rank-7F52FF?style=flat-square&logo=developer&logoColor=blue)](#)
 
 ---
 
 ## 🏆 Engineered by Elite Technical Talent
 This framework is architected and maintained by a verified Top-30 Global AI Engineer:
-* **AlphaNova Competition:** **Global Rank** **#30 / 613**
+* **AlphaNova Competition:** **Global Rank** **28 & Individual Rank 57/873**
 * **Global Leaderboard:** **Rank** **#11**
 * **Developer Reputation:** **62.5**
-* **Verified Scientific Contributions:** **2 Enterprise applications submitted through [Zenodo](https://doi.org) (EUROPEAN F&T Project framework).**
+* **Verified Scientific Contributions:** 2 Enterprise applications submitted through [DOI 10.5281/zenodo.22287925](https://zenodo.org/records/22287925) (EUROPEAN F&T Project framework).
 
 **⭐ If you're interested in deterministic AI, hallucination prevention, or enterprise solutions, let's connect!**
 
